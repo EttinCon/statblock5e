@@ -15,7 +15,7 @@ Elements][custom-elements], and the [Shadow DOM][shadow-dom].
 While statblock5e has been tested the most in Chrome, it may also work in any browser that [properly implements the Web Components v1 specs][web-components]. **Make sure you are using _at least_ Chrome 61 or Firefox 63.**
 
 <div align="center">
-  <p><a href="http://valloric.github.io/statblock5e/demo.html">
+  <p><a href="demo.html">
      <b>LIVE DEMO</b></a>
   </p>
 </div>
